@@ -1,0 +1,1 @@
+let yourArray = ["jump", 1, true, "happy", false]; // change this line
